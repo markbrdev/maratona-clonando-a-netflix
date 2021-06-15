@@ -17,6 +17,12 @@
     text-align: center;
 }
 
+.bottom-navbar img {
+    width: 20px;
+    height: 20px;
+}
+
+
 .bottom-navbar__text {
     color:#8C8787;
     font-size: 8px;
